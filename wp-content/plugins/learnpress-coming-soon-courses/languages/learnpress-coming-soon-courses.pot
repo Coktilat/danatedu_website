@@ -1,0 +1,114 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-12-22 14:32+0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: learnpress-coming-soon-courses.php:51
+#, php-format
+msgid ""
+"<strong>%s</strong> addon version %s requires %s version %s or higher is "
+"<strong>installed</strong> and <strong>activated</strong>."
+msgstr ""
+
+#: learnpress-coming-soon-courses.php:52
+msgid "LearnPress Coming Soon Courses"
+msgstr ""
+
+#: learnpress-coming-soon-courses.php:54
+msgid "LearnPress"
+msgstr ""
+
+#: inc/load.php:111
+msgid "days"
+msgstr ""
+
+#: inc/load.php:112
+msgid "hours"
+msgstr ""
+
+#: inc/load.php:113
+msgid "minutes"
+msgstr ""
+
+#: inc/load.php:114
+msgid "seconds"
+msgstr ""
+
+#: inc/load.php:165
+msgid "Coming soon"
+msgstr ""
+
+#: inc/load.php:171
+msgid "Enable"
+msgstr ""
+
+#: inc/load.php:174
+msgid "Enable coming soon mode."
+msgstr ""
+
+#: inc/load.php:178
+msgid "Message"
+msgstr ""
+
+#: inc/load.php:182
+msgid "The coming soon message will show in single course page."
+msgstr ""
+
+#: inc/load.php:183
+msgid "This course will coming soon"
+msgstr ""
+
+#: inc/load.php:187
+msgid "Coming soon end time"
+msgstr ""
+
+#: inc/load.php:190
+msgid "Set end time coming soon."
+msgstr ""
+
+#: inc/load.php:194
+msgid "Show Countdown"
+msgstr ""
+
+#: inc/load.php:197
+msgid "Show countdown counter."
+msgstr ""
+
+#: inc/load.php:202
+msgid "Show DateTime Text"
+msgstr ""
+
+#: inc/load.php:205
+msgid "Show date and time text (days, hours, minutes, seconds)."
+msgstr ""
+
+#: inc/load.php:210
+msgid "Show Meta"
+msgstr ""
+
+#: inc/load.php:213
+msgid ""
+"Show meta data (such as info about Instructor, price, so on) of the course."
+msgstr ""
+
+#: inc/load.php:218
+msgid "Show Details"
+msgstr ""
+
+#: inc/load.php:221
+msgid "Show details content of the course."
+msgstr ""

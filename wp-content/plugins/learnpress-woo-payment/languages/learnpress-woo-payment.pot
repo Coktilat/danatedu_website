@@ -1,0 +1,101 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Package Name\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-07 10:34+0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: learnpress-woo-payment.php:252
+#, php-format
+msgid ""
+"This order is related to LearnPress order, so if you want to do anything "
+"with LearnPres please edit it <a href=\"%s\">here</a>"
+msgstr ""
+
+#: learnpress-woo-payment.php:391
+msgid "Checkout"
+msgstr ""
+
+#: learnpress-woo-payment.php:610
+#, php-format
+msgid ""
+"<strong>WooCommerce Payment Gateways</strong> addon for <strong>LearnPress</"
+"strong> requires <a href=\"%s\">WooCommerce</a> plugin is installed."
+msgstr ""
+
+#: learnpress-woo-payment.php:616
+#, php-format
+msgid ""
+"<strong>WooCommerce</strong> addon version %s requires <strong>LearnPress</"
+"strong> version %s or higher"
+msgstr ""
+
+#: learnpress-woo-payment.php:623
+msgid ""
+"<strong>WooCommerce</strong> add for LearnPress is not compatible with "
+"WooCommerce 3.0.0. Please temporary deactivate it. We are working for an "
+"update. We will try to finish it soon."
+msgstr ""
+
+#: incs/class-lp-gateway-woo.php:14
+msgid "WooCommerce Payment"
+msgstr ""
+
+#: incs/class-lp-gateway-woo.php:15
+msgid "Make a payment with WooCommerce payment methods."
+msgstr ""
+
+#: incs/class-lp-gateway-woo.php:108
+#, php-format
+msgid "This payment is %s, please click the link beside to enable/disable."
+msgstr ""
+
+#: incs/class-lp-gateway-woo.php:128
+msgid "Enable"
+msgstr ""
+
+#: incs/class-lp-gateway-woo.php:134
+msgid ""
+"If <strong>WooCommerce Payment</strong> is enabled you can not use other "
+"payments provided by LearnPress"
+msgstr ""
+
+#: incs/class-lp-gateway-woo.php:137
+msgid "Purchase button"
+msgstr ""
+
+#: incs/class-lp-gateway-woo.php:144
+msgid "Single purchase button"
+msgstr ""
+
+#: incs/class-lp-gateway-woo.php:145
+msgid "Add to cart button"
+msgstr ""
+
+#: incs/class-lp-gateway-woo.php:150
+msgid "WooCommerce Payments"
+msgstr ""
+
+#: incs/class-lp-gateway-woo.php:155
+msgid "Click on a payment method to go to WooCommerce Payment settings"
+msgstr ""
+
+#: incs/functions.php:48
+msgid "Course"
+msgstr ""
+
+#: templates/add-to-cart.php:16
+msgid "Add to cart"
+msgstr ""
